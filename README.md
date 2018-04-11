@@ -50,6 +50,8 @@ Section 1 introduces the concepts of clustering feature(CF) and CF tree, which a
 synthrtic datasets 表示"合成数据集"   real-world datasets= ground truth datasets  表示"真实数据集"
 We present a performance comparisons of A in terms of ...  versus B. = We compare A in terms of ... with B    表示"我们呈现了A和B在术语...上的比较结果"
 for the sake of charity   表示"为清晰起见，为了清晰起见"
+This subject has received considerable attention, but few real improvements have been suggested beyond previous works.  这个主题已经引起了广泛的注意，但是目前很少有好的改进被做
+leftmost  最左边 rightmost 最右边
 ```
 
 #### **计算机专有名词**
