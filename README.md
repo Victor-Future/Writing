@@ -28,7 +28,7 @@ ground truth        真实的
 This paper instead focuses on local clustering methods that examine local regions of the network.  （instead 然而，表示转折，表示该文章主要集中在...）
 because of the algorithm’s simplicity, scalability,
 and theoretical underpinnings.  (我们使用该算法，主要是因为算法很简洁、可扩展性好，并且是是理论性的基础算法)
-a couple of = a lot of = an ocean of = many + 复数名词      这些词都有许多的、大量的含义
+a couple of = a lot of = an ocean of = many = a great deal of + 复数名词      这些词都有许多的、大量的含义
 ... has(have) drawn a large amount of attention  (某某问题已经引起了广泛的关注)
 account for  动词，表示解释说明之意
 necessary = indispensable = integral  三者都表示必不可少
