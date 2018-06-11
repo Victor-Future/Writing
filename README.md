@@ -83,3 +83,15 @@ intra-cluster distance  表示"簇内距离"
     * 批判性思考的能力
 3. 搜集进一步的证据，提出更可靠（改良）的答案或解决方案。
     * 创新的能力
+    
+### **搜索文章方法**
+
+1. Google Scholar
+2. Google Advanced Search
+3. Google Image Search
+4. Google Book Search
+4. 在搜索时加：filetype:pdf 或者 site:.eia.gov
+5. 国际组织的报告：site:.fao.org
+6. 大学教授未发表之报告：siteL.cam.ac.uk
+7. 博士全文论文： dissertation site:.edu  filetype:pdf
+
