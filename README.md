@@ -66,7 +66,7 @@ We present a performance comparisons of A in terms of ...  versus B. = We compar
 for the sake of charity   表示"为清晰起见，为了清晰起见"
 This subject has received considerable attention, but few real improvements have been suggested beyond previous works.  这个主题已经引起了广泛的注意，但是目前很少有好的改进被做
 leftmost  最左边 rightmost 最右边
-overhead 在计算机中常常被用来指“功耗、能耗、消耗”等
+overhead 在计算机中常常被用来指代价
 ```
 
 #### **计算机专有名词**
