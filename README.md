@@ -69,6 +69,7 @@ leftmost  最左边 rightmost 最右边
 overhead 在计算机中常常被用来指代价
 take NVMs and RDMA feature into consideration   把NVM和RDMA的特征考虑在内
 With the emerging non-volatile memory (NVM) technologies 随着新出现的NVMe存储技术
+bypass 绕过
 ```
 
 #### **计算机专有名词**
