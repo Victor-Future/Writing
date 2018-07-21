@@ -67,6 +67,8 @@ for the sake of charity   表示"为清晰起见，为了清晰起见"
 This subject has received considerable attention, but few real improvements have been suggested beyond previous works.  这个主题已经引起了广泛的注意，但是目前很少有好的改进被做
 leftmost  最左边 rightmost 最右边
 overhead 在计算机中常常被用来指代价
+take NVMs and RDMA feature into consideration   把NVM和RDMA的特征考虑在内
+With the emerging non-volatile memory (NVM) technologies 随着新出现的NVMe存储技术
 ```
 
 #### **计算机专有名词**
