@@ -13,14 +13,10 @@
 
 
 ### <center>论文写作相关词汇总结</center>
-***
 
-#### **概述**
-***
-论文写作过程中，经常感觉词穷，为解决这个问题，我总结了常见的英文写作过程中比较优美的词语（限于计算机科学）。对该仓库的内容永久更新，
-有些是短语，有些是直接从论文原文中拷贝的原话。
 
-#### **常见参考链接**
+
+### **常见参考链接**
 ***
 
 1. MACMILLAN 字典  https://www.macmillandictionary.com/   用于查找同义词
@@ -33,8 +29,7 @@
 6. 英文写作过程中一些简单的替换 http://blog.sciencenet.cn/blog-249382-873882.html
 7. https://arxiv.org/  期刊或者会议大都可能需要一段时间才能审稿通过，这个时候请将您的文章放在arxiv上，保护版权。
 
-#### **常用表达**
-***
+### **常用表达**
 
 ```
 take home message   关键信息，要点
@@ -70,12 +65,7 @@ overhead 在计算机中常常被用来指代价
 take NVMs and RDMA feature into consideration   把NVM和RDMA的特征考虑在内
 With the emerging non-volatile memory (NVM) technologies 随着新出现的NVMe存储技术
 bypass 绕过
-```
-
-#### **计算机专有名词**
-***
-
-```
+tier（层）, multi-tier（多层）
 inter-cluster distance  表示"簇间距离"
 intra-cluster distance  表示"簇内距离"
 ```
