@@ -68,6 +68,8 @@ bypass 绕过
 tier（层）, multi-tier（多层）
 inter-cluster distance  表示"簇间距离"
 intra-cluster distance  表示"簇内距离"
+ in many other
+respects the comparison is wildly off the mark  在许多其他方面的比较上，相当离谱
 ```
 
 ### **研究的过程**
