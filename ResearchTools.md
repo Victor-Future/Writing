@@ -2,7 +2,7 @@
 ## 搜索方法
 1 关键字 google scolar ， aminer，
 2 用linger查看哪些关键字领域常用，从而修正关键字,搭配再搜索
-3 论文 keyword 替换 例如 grah analysis ---> network analysis----> network sampling ---> grah samping
+3 论文 keyword 替换 例如 grah analysis ---> network analysis----> network sampling ---> graph samping
 
 ## 搜索工具，会议搜索工具
 dblp 计算机领域内论文搜索合计，可以当字典来查着用
