@@ -75,6 +75,7 @@ conform to  符合，遵照
 with respect to 关于，如果
 In a nutshell  总而言之，概括地说
 locality of reference  访问局部性原理
+critical section  临界区
 ```
 
 ### **研究的过程**
