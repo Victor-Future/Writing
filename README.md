@@ -76,6 +76,7 @@ with respect to 关于，如果
 In a nutshell  总而言之，概括地说
 locality of reference  访问局部性原理
 critical section  临界区
+It is quite common to do sth  某件事情通常的做法是...
 ```
 
 ### **研究的过程**
