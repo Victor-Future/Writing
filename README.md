@@ -78,6 +78,7 @@ locality of reference  访问局部性原理
 critical section  临界区
 It is quite common to do sth  某件事情通常的做法是...
 With the advent of 随着...的出现，随着...的兴起
+fine-grained 细粒度的
 ```
 
 ### **研究的过程**
