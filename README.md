@@ -68,8 +68,7 @@ bypass 绕过
 tier（层）, multi-tier（多层）
 inter-cluster distance  表示"簇间距离"
 intra-cluster distance  表示"簇内距离"
- in many other
-respects the comparison is wildly off the mark  在许多其他方面的比较上，相当离谱
+in many other respects the comparison is wildly off the mark  在许多其他方面的比较上，相当离谱
 by means of  借助于，凭借，用，依靠
 conform to  符合，遵照
 with respect to 关于，如果
