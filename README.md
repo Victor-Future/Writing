@@ -82,6 +82,7 @@ make full use of 充分利用    take advantage of 利用
 make original use of 最初使用，常常包含独创之意
 the number of = the myriad of = a myriad of = myriad 都含有大量，众多之意
 This is the primary reason why we will be presenting key techniques for addressing these challanges in the context of important parallel computation patterns.
+The ones that are the most widely used are MPI for scalable cluster computing, and OpenMP for shared memory multiprocessor systems.
 ```
 
 ### **研究的过程**
