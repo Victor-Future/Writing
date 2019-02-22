@@ -54,7 +54,7 @@ state-of-the-art   表示"优秀的"
 Our major technical contributions are the following: = The major technical contributions of this paper are as follows:    "表达本文的主要贡献"
 We express our grateful thanks to Prof. Jian Pei from Simon Fraser University for his valuable suggestions on this work.
 ... method in the ... fields has attracted considerable interest recently, and one of the most widely studied problems in this area is ...   某某研究在某个领域吸引了大量的注意力，并且其中一个最主要的研究问题是...
-take into account + 名词 + that = consider + that =  argue + that  表示"认为，考虑"
+take into account 名词  that = consider that =  argue that  表示"认为，考虑"
 Section 1 introduces the concepts of clustering feature(CF) and CF tree, which are central to BIRCH.   表示"某一节引入了两个概念，这些是BIRCH算法的核心"
 synthrtic datasets 表示"合成数据集"   real-world datasets= ground truth datasets  表示"真实数据集"
 We present a performance comparisons of A in terms of ...  versus B. = We compare A in terms of ... with B    表示"我们呈现了A和B在术语...上的比较结果"
@@ -62,7 +62,7 @@ for the sake of charity   表示"为清晰起见，为了清晰起见"
 This subject has received considerable attention, but few real improvements have been suggested beyond previous works.  这个主题已经引起了广泛的注意，但是目前很少有好的改进被做
 leftmost  最左边 rightmost 最右边
 overhead 在计算机中常常被用来指代价
-take NVMs and RDMA feature into consideration   把NVM和RDMA的特征考虑在内
+take ... into consideration   把...考虑在内
 With the emerging non-volatile memory (NVM) technologies 随着新出现的NVMe存储技术
 bypass 绕过
 tier（层）, multi-tier（多层）
@@ -84,6 +84,7 @@ the number of = the myriad of = a myriad of = myriad 都含有大量，众多之
 This is the primary reason why we will be presenting key techniques for addressing these challanges in the context of important parallel computation patterns.
 The ones that are the most widely used are MPI for scalable cluster computing, and OpenMP for shared memory multiprocessor systems.
 way = vehicle 方法，手段，工具
+This is due to the fact that ...
 ```
 
 ### **研究的过程**
