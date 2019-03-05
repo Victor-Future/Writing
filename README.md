@@ -38,6 +38,7 @@ This paper instead focuses on local clustering methods that examine local region
 because of the algorithm’s simplicity, scalability,
 and theoretical underpinnings.  (我们使用该算法，主要是因为算法很简洁、可扩展性好，并且是是理论性的基础算法)
 a couple of = a lot of = an ocean of = many = a great deal of + 复数名词      这些词都有许多的、大量的含义
+the number of = the myriad of = a myriad of = myriad 都含有大量，众多之意
 a little of = a few of = a handful of 少量，一小部分
 ... has(have) drawn a large amount of attention  (某某问题已经引起了广泛的关注)
 account for  动词，表示解释说明之意
@@ -81,12 +82,12 @@ With the advent of 随着...的出现，随着...的兴起
 fine-grained 细粒度的  = granularity（n）
 make full use of 充分利用    take advantage of 利用
 make original use of 最初使用，常常包含独创之意
-the number of = the myriad of = a myriad of = myriad 都含有大量，众多之意
 This is the primary reason why we will be presenting key techniques for addressing these challanges in the context of important parallel computation patterns.
 The ones that are the most widely used are MPI for scalable cluster computing, and OpenMP for shared memory multiprocessor systems.
 way = vehicle 方法，手段，工具
 This is due to the fact that ...
 call = launch = invocation   调用
+holistic 全盘的，整体的
 ```
 
 ### **研究的过程**
