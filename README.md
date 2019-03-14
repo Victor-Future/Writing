@@ -88,6 +88,7 @@ way = vehicle 方法，手段，工具
 This is due to the fact that ...
 call = launch = invocation   调用
 holistic 全盘的，整体的
+the sort of  一种，一类
 ```
 
 ### **研究的过程**
