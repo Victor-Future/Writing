@@ -90,6 +90,7 @@ call = launch = invocation   调用
 holistic 全盘的，整体的
 the sort of  一种，一类
 with respect to  关于，至于，涉及
+vice versa is a breeze  反之亦然
 ```
 
 ### **研究的过程**
