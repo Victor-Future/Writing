@@ -53,6 +53,7 @@ social ties  表示“社交关系、社会关系”
 off-the-shelf  表示"现有的，现成的"
 state-of-the-art   表示"优秀的"
 ... has become one of the recent research focuses in the graph-related fields   表示"某种技术近来已经成为研究热点"
+As a result, *** has become an active area of research in the data management community
 Our major technical contributions are the following: = The major technical contributions of this paper are as follows:    "表达本文的主要贡献"
 We express our grateful thanks to Prof. Jian Pei from Simon Fraser University for his valuable suggestions on this work.
 ... method in the ... fields has attracted considerable interest recently, and one of the most widely studied problems in this area is ...   某某研究在某个领域吸引了大量的注意力，并且其中一个最主要的研究问题是...
