@@ -92,6 +92,7 @@ holistic 全盘的，整体的
 the sort of  一种，一类
 with respect to  关于，至于，涉及
 vice versa is a breeze  反之亦然
+As with the network architecture,  与任何网络体系结构一样...
 ```
 
 ### **研究的过程**
