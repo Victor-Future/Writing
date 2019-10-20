@@ -51,7 +51,7 @@ a range of  表示“一系列、一些、一套“
 is conditioned on  表示"条件是..."
 social ties  表示“社交关系、社会关系”
 off-the-shelf  表示"现有的，现成的"
-state-of-the-art   表示"优秀的"
+state-of-the-art   表示"优秀的"   cutting-edge  表示“领先的，最新的，先进的”
 ... has become one of the recent research focuses in the graph-related fields   表示"某种技术近来已经成为研究热点"
 As a result, *** has become an active area of research in the data management community
 Our major technical contributions are the following: = The major technical contributions of this paper are as follows:    "表达本文的主要贡献"
