@@ -93,7 +93,12 @@ the sort of  一种，一类
 with respect to  关于，至于，涉及
 vice versa is a breeze  反之亦然
 As with the network architecture,  与任何网络体系结构一样...
-without start from scratch  从零开始，白手起家 
+without start from scratch  从零开始，白手起家
+w.r.t. = with respect to (1)常用于求导，或者满足一定条件之类的情况 (2)相对于
+s.t. = subject to 约束与
+r.v. = random variable 随机变量
+iff  = if and only if
+i.i.d. = independently and identically distributed 独立同分布
 ```
 
 ### **研究的过程**
