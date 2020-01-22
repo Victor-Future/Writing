@@ -101,6 +101,7 @@ r.v. = random variable 随机变量
 iff  = if and only if
 i.i.d. = independently and identically distributed 独立同分布
 piece by piece  逐渐地
+In certain situation   在某些情况下
 ```
 
 ### **研究的过程**
