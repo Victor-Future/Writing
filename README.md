@@ -80,7 +80,7 @@ locality of reference  访问局部性原理
 critical section  临界区
 It is quite common to do sth  某件事情通常的做法是...
 With the advent of 随着...的出现，随着...的兴起
-fine-grained 细粒度的  = granularity（n）
+fine-grained 细粒度的  = granularity（n）  coarse-grained 粗粒度的
 make full use of 充分利用    take advantage of 利用
 make original use of 最初使用，常常包含独创之意
 This is the primary reason why we will be presenting key techniques for addressing these challanges in the context of important parallel computation patterns.
