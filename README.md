@@ -95,7 +95,6 @@ in light of （1）鉴于，考虑到 （2）按照，根据
 vice versa is a breeze  反之亦然
 As with the network architecture,  与任何网络体系结构一样...
 without start from scratch  从零开始，白手起家
-
 s.t. = subject to 约束与
 r.v. = random variable 随机变量
 iff  = if and only if
