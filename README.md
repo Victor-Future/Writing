@@ -74,7 +74,7 @@ intra-cluster distance  表示"簇内距离"
 in many other respects the comparison is wildly off the mark  在许多其他方面的比较上，相当离谱
 by means of  借助于，凭借，用，依靠
 conform to  符合，遵照
-with respect to 关于，如果
+with respect to 关于，如果   w.r.t. = with respect to (1)常用于求导，或者满足一定条件之类的情况 (2)相对于
 In a nutshell  总而言之，概括地说
 locality of reference  访问局部性原理
 critical section  临界区
@@ -95,13 +95,13 @@ in light of （1）鉴于，考虑到 （2）按照，根据
 vice versa is a breeze  反之亦然
 As with the network architecture,  与任何网络体系结构一样...
 without start from scratch  从零开始，白手起家
-w.r.t. = with respect to (1)常用于求导，或者满足一定条件之类的情况 (2)相对于
+
 s.t. = subject to 约束与
 r.v. = random variable 随机变量
 iff  = if and only if
 i.i.d. = independently and identically distributed 独立同分布
 piece by piece  逐渐地
-In certain situation   在某些情况下
+In certain situation   在某些情况下   in certain ways  以某种方式
 ```
 
 ### **研究的过程**
