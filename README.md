@@ -101,6 +101,7 @@ iff  = if and only if
 i.i.d. = independently and identically distributed 独立同分布
 piece by piece  逐渐地
 In certain situation   在某些情况下   in certain ways  以某种方式
+get away from = avoid  避免，不要在论文论文中经常写avoid，可以用get away from代替
 ```
 
 ### **研究的过程**
