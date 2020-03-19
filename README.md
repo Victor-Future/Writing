@@ -103,6 +103,7 @@ piece by piece  逐渐地
 In certain situation   在某些情况下   in certain ways  以某种方式
 get away from = avoid  避免，不要在论文论文中经常写avoid，可以用get away from代替
 As a rule of thumb 根据经验，一般说来
+a quantum of time 一段时间
 ```
 
 ### **研究的过程**
