@@ -1,6 +1,6 @@
 ### 论文研究方法
 
-![Github stars](https://img.shields.io/github/stars/JunpengCode/Writing.svg)  ![](https://img.shields.io/github/license/JunpengCode/Writing.svg) ![Github stars](https://img.shields.io/github/forks/JunpengCode/Writing.svg) ![Github Release](https://img.shields.io/github/release/JunpengCode/Writing.svg)
+![Github stars](https://img.shields.io/github/stars/JunpengCode/Writing.svg)  ![](https://img.shields.io/github/license/JunpengCode/Writing.svg) ![Github stars](https://img.shields.io/github/forks/JunpengCode/Writing.svg)
 
 
 台湾大学彭明辉老师
